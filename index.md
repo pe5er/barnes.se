@@ -4,4 +4,4 @@ draft: false
 title: Home
 ---
 
-This is a landing page for my professional email, peter@barnes.se
+This is my development domain, not used for much apart from perhaps a future email address. For info, contact pe5erb@gmail.com
